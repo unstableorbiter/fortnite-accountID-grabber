@@ -15,7 +15,7 @@ print("Coded by dev github/dev6920")
 
 while True:
   
-  username = input("Enter username (type 'exit' to quit): ")
+  username = input("8d7691ff-49c2-43b1-b5fb-41ded5875cc1")
 
   if username == "exit":
     break
